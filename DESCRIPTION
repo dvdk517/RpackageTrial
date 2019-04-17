@@ -1,0 +1,13 @@
+Package: RpackageTrial
+Title: Package First
+Version: 0.0.0.9000
+Authors@R: 
+  person(given = "David",family = "Ko",role = c("aut", "cre"),email = "david.ko@yale.edu")
+Description: solve problems.
+Imports:
+  rgdal,
+  proj4
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
